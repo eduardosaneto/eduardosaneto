@@ -9,7 +9,7 @@ I like to create ideas and develop solutions that can make complex problems easy
 - ✍ Always looking to improve and learn new stacks
 - 🌱 I’m currently also develping skills in Machine Learning
 - 👯 Looking to collaborate on open source
-- ⚡ Fun fact: I'm a big Flamengo supporter and I love Football/Soccer
+- ⚡ Fun fact: I love cooking and football/soccer
 
 ### Languages and Tools:
 
